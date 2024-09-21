@@ -1,0 +1,27 @@
+.bc{
+    color: red;
+    text-align: center;
+    font-size: 60px;
+}
+.abc{
+    text-align: center;
+    background-image: url("https://images.alphacoders.com/195/195233.jpg");
+    background-size: cover;
+    height: 900px;
+    width: 1200px;
+    padding: 40px;
+}
+.p{
+    color: yellowgreen;
+    font-size: 21px;
+    border-radius: 20px;
+
+}
+button{
+    color: purple;
+    background-color: rgb(255, 182, 185);
+    height: 60px;
+    width: 90px;
+    font-size: 20px;
+    border-radius: 20px;
+}
